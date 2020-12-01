@@ -10,3 +10,9 @@ Tutorials for programming and the open-source environment
 | Programming Tutorials | [link](https://github.com/rokwire/rokwire-community/wiki/Programming-Tutorials)       |
 | Video Tutorials       | [link](https://github.com/rokwire/rokwire-community/wiki/Video-Tutorials)             |
 
+
+Check out our community newsletter for the latest community news!
+|                       |                                                                                    |
+|-----------------------|------------------------------------------------------------------------------------|
+| November, Issue 1     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-news)             |
+| December, Issue 1     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-news-november1)   |
