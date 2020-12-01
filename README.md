@@ -12,7 +12,7 @@ Tutorials for programming and the open-source environment
 
 
 Check out our community newsletter for the latest community news!
-|                       |                                                                                    |
+| Issue                 | Substack                                                                           |
 |-----------------------|------------------------------------------------------------------------------------|
 | November, Issue 1     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-news)             |
 | December, Issue 1     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-news-november1)   |
