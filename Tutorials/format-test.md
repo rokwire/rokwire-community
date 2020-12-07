@@ -1,7 +1,7 @@
 This is a test      
-::::This is a test    
+&nbsp&nbsp&nbsp&nbsp&nbspThis is a test    
    
-[link](https://github.com/rokwire/rokwire-community/blob/master/Tutorials/format-test#L24)
+[link](https://github.com/rokwire/rokwire-community/blob/master/Tutorials/format-test.md#L24)
   
   
   
