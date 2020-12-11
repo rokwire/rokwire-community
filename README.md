@@ -7,8 +7,8 @@ Tutorials for programming and the open-source environment
 |-----------------------|---------------------------------------------------------------------------------------|
 | Software Carpentries  | [link](http://www.github.com/swcarpentry/swcarpentry)                                 |
 | The Turing Way        | [link](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) |
-| Programming Tutorials | [link](https://github.com/rokwire/rokwire-community/wiki/Programming-Tutorials)       |
-| Video Tutorials       | [link](https://github.com/rokwire/rokwire-community/wiki/Video-Tutorials)             |
+| Programming Tutorials (Rokwire) | [link](https://github.com/rokwire/rokwire-community/wiki/Programming-Tutorials)       |
+| Video Tutorials  (Rokwire)     | [link](https://github.com/rokwire/rokwire-community/wiki/Video-Tutorials)             |
 
 
 Check out our community newsletter for the latest community news!
