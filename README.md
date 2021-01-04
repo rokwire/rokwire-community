@@ -19,14 +19,3 @@ Check out our community newsletter for the latest community news!
 | December, Issue 1     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-news-november1)   |
 | December, Issue 2.    | [link](https://rokwirecommunity.substack.com/p/rokwire-community-news-december-2)       |
 | January, Issue 1.     | [link]()       |
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-4MN8VCWM3N"></script> -->
-<!-- <script> -->
-<!-- window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date()); -->
-
-<!--  gtag('config', 'G-4MN8VCWM3N');
-</script>
--->
