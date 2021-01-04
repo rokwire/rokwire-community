@@ -20,6 +20,7 @@ Check out our community newsletter for the latest community news!
 | December, Issue 2.    | [link](https://rokwirecommunity.substack.com/p/rokwire-community-news-december-2)       |
 | January, Issue 1.     | [link]()       |
 
+<!-- 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4MN8VCWM3N"></script>
 <script>
@@ -29,3 +30,4 @@ Check out our community newsletter for the latest community news!
 
   gtag('config', 'G-4MN8VCWM3N');
 </script>
+-->
