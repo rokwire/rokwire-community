@@ -1,6 +1,6 @@
 ## Open Publication Status
 
-Project board: [link](https://github.com/rokwire/rokwire-community/projects/2)
+Issue #63: [link](https://github.com/rokwire/rokwire-community/issues/63)
 
 |  Tentative Title                            |  Open Status    | Link    | Audience                          |
 |---------------------------------------------|-----------------|---------|------------------------------------|
