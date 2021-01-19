@@ -19,5 +19,6 @@ Check out our community newsletter for the latest community news!
 | December, Issue 1     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-news-november1)   |
 | December, Issue 2     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-news-december-2)       |
 | January, Issue 1      | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-january)       |
+| January, Issue 2      | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-january-c47).  |
 
 Want to take the pulse of our community? Visit our [events page](https://rokwirecommunity.web.illinois.edu/events.html) for more!
