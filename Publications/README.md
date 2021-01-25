@@ -6,6 +6,9 @@ Issue #63: [link](https://github.com/rokwire/rokwire-community/issues/63)
 |---------------------------------------------|-----------------|---------|------------------------------------|
 |  General Overview of Rokwire                |  TBA            |  [repo](https://github.com/rokwire/rokwire-community/tree/master/Publications/General-Overview) |General, Novice                   |
 |  10 Applications for the Rokwire Platform   |  TBA            |  [repo](https://github.com/rokwire/rokwire-community/tree/master/Publications/10-Applications)    | General, Intermediate             |
+| Mobile Collective Data.                     |  TBA            |  [repo]() | Intermediate      |
+| Converge                                    |  TBA            |  [repo]() | Specialist        |
+| Exposure Notification Introduction.         |  TBA            |  [repo]() | Specialist        |
 
 General Overview of Rokwire: following up on the Rokwire white paper (circa January 2020), this is an opportunity to publish a broad overview of the Rokwire platform. Desired skills: editorial, literature review, expertise in Rokwire or Software Development.  
 
