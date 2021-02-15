@@ -7,6 +7,7 @@ Tutorials for programming and the open-source environment
 |-----------------------|---------------------------------------------------------------------------------------|
 | Software Carpentries  | [link](http://www.github.com/swcarpentry/swcarpentry)                                 |
 | The Turing Way        | [link](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) |
+| Hello World (Github guides) | [link](https://guides.github.com/activities/hello-world/)                       |
 | Open Source Orientation (Mozilla Science) | [link](https://mozillascience.github.io/study-group-orientation/index.html)  |
 | Programming Tutorials (Rokwire) | [link](https://github.com/rokwire/rokwire-community/wiki/Programming-Tutorials)       |
 | Video Tutorials  (Rokwire)     | [link](https://github.com/rokwire/rokwire-community/wiki/Video-Tutorials)             |
