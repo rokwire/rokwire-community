@@ -2,6 +2,10 @@
 
 Issue #63: [link](https://github.com/rokwire/rokwire-community/issues/63)
 
+Link to Publication Interest Group meeting space, time TBA [Jit.si link](https://meet.jit.si/RokwireC)
+
+Shared Doc (all proposed publications): key publications [link](https://docs.google.com/spreadsheets/d/13j2sS9V3VH6oZeaiZOLnMraCbFg_ddml/edit#gid=1014352494)
+
 |  Tentative Title                            |  Open Status    | Link    | Audience                          |
 |---------------------------------------------|-----------------|---------|------------------------------------|
 |  General Overview of Rokwire                |  TBA            |  [repo](https://github.com/rokwire/rokwire-community/tree/master/Publications/General-Overview) |General, Novice                   |
