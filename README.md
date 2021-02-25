@@ -23,5 +23,6 @@ Check out our community newsletter for the latest community news!
 | January, Issue 2      | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-january-c47)   |
 | February, Issue 1     | [link](https://rokwirecommunity.substack.com/publish/post/31686281)                |
 | February, Issue 2     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-february-e2c)  |
+| March, Issue 1.       | [link]()   |
 
-Want to take the pulse of our community? Visit our [events page](https://rokwirecommunity.web.illinois.edu/events.html) for more!
+Want to take the pulse of our community? Visit our [events page](https://rokwirecommunity.web.illinois.edu/events.html). Want to start making contributions? Visit our [onboarding guide](https://rokwirecommunity.substack.com/p/onboarding-guide-to-rokwire-community) and [Wiki](https://github.com/rokwire/rokwire-community/wiki) for more information.
