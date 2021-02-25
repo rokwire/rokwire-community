@@ -1,6 +1,6 @@
 ## Welcome to the Rokwire Community!
 
-[Website](https://rokwirecommunity.web.illinois.edu/), [Blog](https://publish.illinois.edu/bradly-alicea/), [Wiki](https://github.com/rokwire/rokwire-community/wiki), [Twitter](http://www.twitter.com/RokwireC/), [Contact](mailto:balicea@illinois.edu)
+[Website](https://rokwirecommunity.web.illinois.edu/), [Blog](https://publish.illinois.edu/bradly-alicea/), [Wiki](https://github.com/rokwire/rokwire-community/wiki), [Onboarding Guide](https://rokwirecommunity.substack.com/p/onboarding-guide-to-rokwire-community), [Code of Conduct](https://github.com/rokwire/rokwire-community/wiki/Rokwire-Community-Code-of-Conduct), [Twitter](http://www.twitter.com/RokwireC/), [Contact](mailto:balicea@illinois.edu)
 
 Tutorials for programming and the open-source environment
 | Resource              | Location                                                                              |
