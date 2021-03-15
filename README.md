@@ -7,6 +7,7 @@ Tutorials for programming and the open-source environment
 |--------------------------------------------------|---------------------------------------------------------------------------------------|
 | Software Carpentries                             | [link](http://www.github.com/swcarpentry/swcarpentry)                                 |
 | The Turing Way                                   | [link](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) |
+| Linux Foundation                                 | [link](https://www.linuxfoundation.org/en/resources/open-source-guides/participating-in-open-source-communities/)  |
 | Dataverse (Open-source Research Data)            | [link](https://dataverse.org/)                                                        |
 | Hello World (Github guides)                      | [link](https://guides.github.com/activities/hello-world/)                             |
 | Open Source Orientation (Mozilla Science)        | [link](https://mozillascience.github.io/study-group-orientation/index.html)           |
