@@ -30,6 +30,7 @@ Check out our community newsletter for the latest community news!
 | February, Issue 2     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-february-e2c)  |
 | March, Issue 1        | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-march)   |
 | March, Issue 2        | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-march-a85)   |
-| April, Issue 3        | [link](---)   |  
+| April, Issue 1        | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-april)   |
+| April, Issue 2        | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-april-90e) |
 
 Want to take the pulse of our community? Visit our [events page](https://rokwirecommunity.web.illinois.edu/events.html). Want to start making contributions? Visit our [onboarding guide](https://rokwirecommunity.substack.com/p/onboarding-guide-to-rokwire-community) and [Wiki](https://github.com/rokwire/rokwire-community/wiki) for more information.
