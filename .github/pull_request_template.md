@@ -3,7 +3,7 @@
 Your Name and Affiliation
 
 
-Is this an addition to an existing or proposed page?
+Is this an addition to an existing or proposed page? (Community Wiki contributions only)
 
 
 Page Name:
