@@ -2,16 +2,16 @@
 #### Temnplate for Community Wiki contributions only  
 
 
-Your Name and Affiliation
+1. Your Name and Affiliation
 
 
-Is this an addition to an existing or proposed page? 
+2. Is this an addition to an existing or proposed page? 
 
 
-Page Name:
+3. Page Name:
 
 
-Content: 
+4. Content: 
 
 
-Notes?
+5. Notes?
