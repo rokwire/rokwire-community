@@ -1,5 +1,5 @@
 ## New Pages and Unmoderated Content
-#### Temnplate for Community Wiki contributions only  
+#### Template for Community Wiki contributions only  
 
 
 1. Your Name and Affiliation
