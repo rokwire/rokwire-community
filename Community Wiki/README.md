@@ -10,6 +10,7 @@ As of April, 2021
 
 [Home](https://github.com/rokwire/rokwire-community/wiki)       
 [Apache license](https://github.com/rokwire/rokwire-community/wiki/Apache-license)   
+[API/Persistance Layer Diagram](https://github.com/rokwire/rokwire-community/wiki/API-Persistance-Layer-Diagram)
 [Attribution Standard](https://github.com/rokwire/rokwire-community/wiki/Attribution-Standard)   
 [Bug Reports, Accessibility Reports, and New Feature Requests](https://github.com/rokwire/rokwire-community/wiki/Bug-Reports,-Accessibility-Reports,-and-New-Feature-Requests)   
 [Community Events](https://github.com/rokwire/rokwire-community/wiki/Community-Events)   
