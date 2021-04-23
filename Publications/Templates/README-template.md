@@ -3,13 +3,11 @@
 ## Title
 Subtitle  
 
-Requirements   
-
+Requirements
 |----------------------|
-|                      |
+|     Dependencies     |
 
-Instructions   
-
+Instructions
 |----------------------|
 |     Setup            |
 |     Install          |
