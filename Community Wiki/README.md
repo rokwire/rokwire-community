@@ -6,7 +6,7 @@ This is the backend for the [Rokwire Community Wiki](https://github.com/rokwire/
 Rokwire Community Onboarding Guide  [link](https://rokwirecommunity.substack.com/p/onboarding-guide-to-rokwire-community)
 
 ### Catalogue of Pages
-As of April, 2021
+As of May 2021
 
 [Home](https://github.com/rokwire/rokwire-community/wiki)       
 [Apache license](https://github.com/rokwire/rokwire-community/wiki/Apache-license)   
