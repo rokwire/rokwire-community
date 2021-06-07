@@ -37,7 +37,7 @@ As of May 2021
 [Programming Tutorials](https://github.com/rokwire/rokwire-community/wiki/Programming-Tutorials)   
 [Project Catalogue foir Student Contributors](https://github.com/rokwire/rokwire-community/wiki/Project-Catalogue-for-Student-Contributors)  
 [Pull Request Tutorial](https://github.com/rokwire/rokwire-community/wiki/Pull-Request-Tutorial)  
-[Rokwall](https://github.com/rokwire/rokwire-community/wiki/Rokwall)
+[Rokwall](https://github.com/rokwire/rokwire-community/wiki/Rokwall)    
 [Rokwire Community Code of Conduct](https://github.com/rokwire/rokwire-community/wiki/Rokwire-Community-Code-of-Conduct)  
 [Rokwire Dictionary](https://github.com/rokwire/rokwire-community/wiki/Rokwire-Dictionary)  
 [Safer Badgers](https://github.com/rokwire/rokwire-community/wiki/Safer-Badgers)  
