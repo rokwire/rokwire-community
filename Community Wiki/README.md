@@ -17,7 +17,7 @@ As of May 2021
 [Contributions Packager](https://github.com/rokwire/rokwire-community/wiki/Contributions-Packager)   
 [Contributor License Agreement (CLA)](https://github.com/rokwire/rokwire-community/wiki/Contributor-License-Agreement-(CLA))   
 [Contributor Master Plan, version 1](https://github.com/rokwire/rokwire-community/wiki/Contributor-Master-Plan,-version-1)  
-[Docathon](https://github.com/rokwire/rokwire-community/wiki/Docathon)
+[Docathon](https://github.com/rokwire/rokwire-community/wiki/Docathon)     
 [Event Categories](https://github.com/rokwire/rokwire-community/wiki/Event-Categories)   
 [Existing and Proposed Building Blocks](https://github.com/rokwire/rokwire-community/wiki/Existing-and-Proposed-Building-Blocks)    
 [External Contributor Guidelines](https://github.com/rokwire/rokwire-community/wiki/External-Contributor-Guidelines)  
