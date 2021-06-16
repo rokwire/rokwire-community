@@ -1,6 +1,6 @@
 ## Open Publication Status
 
-Issue #63: [link](https://github.com/rokwire/rokwire-community/issues/63)
+Getting Involved in an Open Publication. See [Issue #63](https://github.com/rokwire/rokwire-community/issues/63) or visit the [Rokwire Publications](https://github.com/rokwire/rokwire-community/tree/master/Publications) repo
 
 Link to Publication Interest Group meeting space, time TBA [Jit.si link](https://meet.jit.si/RokwireC)
 
