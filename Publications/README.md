@@ -9,7 +9,7 @@ Shared Doc (all proposed publications): key publications [link](https://docs.goo
 |  Tentative Title                            |  Open Status    | Repo    | Submissions | Audience                          |
 |---------------------------------------------|-----------------|---------|-------------|-----------------------------------|
 |  General Overview of Rokwire                |  TBA            |  [repo](https://github.com/rokwire/rokwire-community/tree/master/Publications/General-Overview) |  |  General, Novice                   |
-|  Open-source Handbook.                      |  Ready          |  [current version](https://figshare.com/articles/preprint/Open-source_Standards_Tutorial/14502045)       |  [link](https://docs.google.com/forms/d/e/1FAIpQLSejNTC62D2W52jLuS97PYTdn9IXPF2NhvQ05WLbiXLq9D7u4A/viewform?usp=sf_link)        |
+|  Open-source Handbook                       |  Ready          |  [current version](https://figshare.com/articles/preprint/Open-source_Standards_Tutorial/14502045)       |  [link](https://docs.google.com/forms/d/e/1FAIpQLSejNTC62D2W52jLuS97PYTdn9IXPF2NhvQ05WLbiXLq9D7u4A/viewform?usp=sf_link)        |
 |  10 Applications for the Rokwire Platform   |  Ready          |  [repo](https://github.com/rokwire/rokwire-community/tree/master/Publications/10-Applications) |  [link](https://docs.google.com/forms/d/e/1FAIpQLSeAhsaOE_RDSlglB60gIQy1L6o-ApZr0GkqHqpDcZGnE_6mgA/viewform) | General, Intermediate             |
 | Mobile Collective Data.                     |  TBA            |  [repo]() | |  Intermediate      |
 | Exposure Notification Introduction.         |  TBA            |  [repo]() | |  Specialist        |
