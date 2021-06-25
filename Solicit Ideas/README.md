@@ -1,6 +1,6 @@
-[The six types of pull request (Github)](https://ben.balter.com/2015/12/08/types-of-pull-requests/)
+See [The six types of pull request (Github)](https://ben.balter.com/2015/12/08/types-of-pull-requests/)
 
-* works in progress, early feedback, and line-by-line review.
+* in particular, works in progress, early feedback, and line-by-line review.
 
 Works in progress: submit a [form for your ideas](---)
 
