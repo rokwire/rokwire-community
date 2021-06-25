@@ -1,5 +1,5 @@
 ## New Pages and Unmoderated Content
-#### Template for Community Wiki contributions only  
+#### Template for Community Wiki Contributions Only  
 
 
 1. Your Name and Affiliation
@@ -15,3 +15,15 @@
 
 
 5. Notes?
+
+
+#### Template for Idea Submissions Only
+
+
+1. Your Name and Affiliation
+
+
+2. State your idea.
+
+
+3. Notes for the Moderator
