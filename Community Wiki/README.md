@@ -36,7 +36,7 @@ As of May 2021
 [Open Source Community Guiding Principles](https://github.com/rokwire/rokwire-community/wiki/Open-Source-Community-Guiding-Principles)   
 [Personal Identifiable Information](https://github.com/rokwire/rokwire-community/wiki/Personal-Identifiable-Information-(PII))   
 [Programming Tutorials](https://github.com/rokwire/rokwire-community/wiki/Programming-Tutorials)   
-[Project Catalogue foir Student Contributors](https://github.com/rokwire/rokwire-community/wiki/Project-Catalogue-for-Student-Contributors)  
+[Project Catalogue for Student Contributors](https://github.com/rokwire/rokwire-community/wiki/Project-Catalogue-for-Student-Contributors)  
 [Pull Request Tutorial](https://github.com/rokwire/rokwire-community/wiki/Pull-Request-Tutorial)  
 [Rokwall](https://github.com/rokwire/rokwire-community/wiki/Rokwall)    
 [Rokwire Community Code of Conduct](https://github.com/rokwire/rokwire-community/wiki/Rokwire-Community-Code-of-Conduct)     
