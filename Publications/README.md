@@ -8,11 +8,11 @@ Shared Doc (all proposed publications): key publications [link](https://docs.goo
 
 |  Tentative Title                            |  Open Status    | Repo    | Submissions | Audience                          |
 |---------------------------------------------|-----------------|---------|-------------|-----------------------------------|
-|  General Overview of Rokwire                |  TBA            |  [repo](https://github.com/rokwire/rokwire-community/tree/master/Publications/General-Overview) |  |  General, Novice                   |
-|  Open-source Handbook                       |  Ready          |  [current version](https://figshare.com/articles/preprint/Open-source_Standards_Tutorial/14502045)       |  [link](https://docs.google.com/forms/d/e/1FAIpQLSejNTC62D2W52jLuS97PYTdn9IXPF2NhvQ05WLbiXLq9D7u4A/viewform?usp=sf_link)        |
-|  10 Applications for the Rokwire Platform   |  Ready          |  [repo](https://github.com/rokwire/rokwire-community/tree/master/Publications/10-Applications) |  [link](https://docs.google.com/forms/d/e/1FAIpQLSeAhsaOE_RDSlglB60gIQy1L6o-ApZr0GkqHqpDcZGnE_6mgA/viewform) | General, Intermediate             |
+|  General Overview of Rokwire                |  TBA            |  [contribute ideas here](https://github.com/rokwire/rokwire-community/tree/master/Publications/General-Overview) |  |  General, Novice                   |
+|  Open-source Handbook                       |  v4 released April 2021  |  [current version](https://figshare.com/articles/preprint/Open-source_Standards_Tutorial/14502045)       |  [contribute suggestions here](https://docs.google.com/forms/d/e/1FAIpQLSejNTC62D2W52jLuS97PYTdn9IXPF2NhvQ05WLbiXLq9D7u4A/viewform?usp=sf_link)        |
+|  10 Applications for the Rokwire Platform   |  Ready          |  [repo](https://github.com/rokwire/rokwire-community/tree/master/Publications/10-Applications) |  [contribute ideas here](https://docs.google.com/forms/d/e/1FAIpQLSeAhsaOE_RDSlglB60gIQy1L6o-ApZr0GkqHqpDcZGnE_6mgA/viewform) | General, Intermediate             |
 | Mobile Collective Data.                     |  TBA            |  [repo]() | |  Intermediate      |
-| Exposure Notification Introduction.         |  TBA            |  [repo]() | |  Specialist        |
+| .         |  TBA            |  [repo]() | |  Specialist        |
 
 General Overview of Rokwire: following up on the Rokwire white paper (circa January 2020), this is an opportunity to publish a broad overview of the Rokwire platform. Desired skills: editorial, literature review, expertise in Rokwire or Software Development.  
 
