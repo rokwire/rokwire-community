@@ -8,4 +8,4 @@ Docathon links  [register](https://docs.google.com/forms/d/e/1FAIpQLSfYM9xEAYQk_
 
 __Blog Posts__   
 
-[Open Manuscript Initiatives: a deeper look](http://publish.illinois.edu/bradly-alicea/2021/07/07/open-manuscript-initiatives-a-deeper-look/).
+Open Manuscript Initiatives: a deeper look. [link](http://publish.illinois.edu/bradly-alicea/2021/07/07/open-manuscript-initiatives-a-deeper-look/)
