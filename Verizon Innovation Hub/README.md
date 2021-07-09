@@ -1,6 +1,8 @@
 ## Verizon Innovation Hub
 
-This is a space for pull requests within the Verizon Innovation Hub partnership. Please [watch this tutorial]() to learn how to make a pull request (PR). The standards for pushing a directory (named directory with contents) are as follows:
+This is a space for pull requests within the Verizon Innovation Hub partnership. The standards for pushing a directory via pull request (PR -- a named directory with contents) are as follows:
+
+* if you are working with the Rokwire API, DO NOT issue a pull request to that repository. Download the API work within a fork of this directory.
 
 * make a fork of this repository to your home Github account, so that you have a local copy. For example, /rokwire/rokwire-community will be forked as /yourgithubalias/rokwire-community.
 
@@ -21,3 +23,5 @@ This is a space for pull requests within the Verizon Innovation Hub partnership.
 * you may refresh your fork to incorporate multiple pull requests by updating the fork (copy of the repository on your account). Click on the "Fetch Upstream" button, located just beneath the green "Code" button on the front page of your fork.
 
 * these instructions are for users of the Github Web GUI. For command-line instructions, please consult the [Git Handbook](https://guides.github.com/introduction/git-handbook/) or Github Docs [Collaborating with PRs](https://docs.github.com/en/github/collaborating-with-pull-requests) section.
+
+* we will be creating a Capabilities Manager interface in the near future. When this is online and functional, you will submit through that interface, but still utilize this repository for a contribution review initiated by the Community Manager.
