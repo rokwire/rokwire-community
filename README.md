@@ -18,6 +18,7 @@ Tutorials for the open-source environment
 
 Programming and procedural tutorials
 | Tutorial Resource                                | Location                                                                              |
+|--------------------------------------------------|---------------------------------------------------------------------------------------|
 | Programming Tutorials (Rokwire)                  | [link](https://github.com/rokwire/rokwire-community/wiki/Programming-Tutorials)       |
 | Video Tutorials  (Rokwire)                       | [link](https://github.com/rokwire/rokwire-community/wiki/Video-Tutorials)             |
 
