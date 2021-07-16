@@ -15,6 +15,9 @@ Tutorials for programming and the open-source environment
 | Git/Github Introduction (Voytek Lab)             | [link](https://voyteklab.com/git/git-primer/)                                         |
 | Git tutorials and training (Atlassian)           | [link](https://www.atlassian.com/git/tutorials)                                       | 
 | Four-part Git tutorial (Microsoft)               | [link](https://channel9.msdn.com/Shows/Learn-Live/Learn-Git?WT.mc_id=learnlive-web-learn)                                       | 
+
+
+| Tutorial Resource                                | Location                                                                              |
 | Programming Tutorials (Rokwire)                  | [link](https://github.com/rokwire/rokwire-community/wiki/Programming-Tutorials)       |
 | Video Tutorials  (Rokwire)                       | [link](https://github.com/rokwire/rokwire-community/wiki/Video-Tutorials)             |
 
