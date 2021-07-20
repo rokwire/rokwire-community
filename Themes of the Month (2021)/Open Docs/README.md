@@ -9,3 +9,5 @@ Docathon links  [register](https://docs.google.com/forms/d/e/1FAIpQLSfYM9xEAYQk_
 __Blog Posts__   
 
 Open Manuscript Initiatives: a deeper look. [link](http://publish.illinois.edu/bradly-alicea/2021/07/07/open-manuscript-initiatives-a-deeper-look/)
+
+Software Docs from a Working Open Perspective [link](https://publish.illinois.edu/bradly-alicea/2021/07/20/software-docs-from-a-working-open-perspective/)
