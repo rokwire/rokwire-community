@@ -5,7 +5,8 @@
 Tutorials for the open-source environment
 | Resource                                         | Location                                                                              |
 |--------------------------------------------------|---------------------------------------------------------------------------------------|
-| Software Carpentries                             | [link](http://www.github.com/swcarpentry/swcarpentry)                                 |
+| Software Carpentries Github                      | [link](http://www.github.com/swcarpentry/swcarpentry)                                 |
+| Software Carpentries Core Lessons                | [link](https://software-carpentry.org/lessons/)                                       |
 | The Turing Way                                   | [link](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) |
 | Linux Foundation                                 | [link](https://www.linuxfoundation.org/en/resources/open-source-guides/participating-in-open-source-communities/)  |
 | Dataverse (Open-source Research Data)            | [link](https://dataverse.org/)                                                        |
