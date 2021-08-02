@@ -2,7 +2,7 @@ See [The six types of pull request (Github)](https://ben.balter.com/2015/12/08/t
 
 * in particular, works in progress, early feedback, and line-by-line review.
 
-Works in progress: submit a [form for your ideas](---)
+Have an idea for a feature or improvement? Submit a [form for your ideas](https://forms.gle/Fh7AvQVv4t4W13HC7)
 
 Early feedback: issue a pull request according to our [template](https://github.com/rokwire/rokwire-community/blob/master/.github/pull_request_template.md), include your submission, and start an [issue or set of issues](https://github.com/rokwire/rokwire-community/issues) and then incorporate them on the [Ideas project board](https://github.com/rokwire/rokwire-community/projects/5).
 
