@@ -43,7 +43,7 @@ As of May 2021
 [Rokwire Community Code of Conduct](https://github.com/rokwire/rokwire-community/wiki/Rokwire-Community-Code-of-Conduct)     
 [Rokwire Community Open-source Handbook](https://github.com/rokwire/rokwire-community/wiki/Rokwire-Community-Open-Source-Handbook)     
 [Rokwire Dictionary](https://github.com/rokwire/rokwire-community/wiki/Rokwire-Dictionary)  
-[Safer Badgers](https://github.com/rokwire/rokwire-community/wiki/Safer-Badgers)  
+[Safer Badgers](https://github.com/rokwire/rokwire-community/blob/master/Community%20Wiki/Wiki%20Stub%20archive/Safer-Badgers.md)  
 [Safer Community](https://github.com/rokwire/rokwire-community/wiki/Safer-Community)  
 [Safer Illinois](https://github.com/rokwire/rokwire-community/wiki/Safer-Illinois)  
 [Sustainable Contributions](https://github.com/rokwire/rokwire-community/wiki/Sustainable-Contributions)  
