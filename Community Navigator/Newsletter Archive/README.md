@@ -14,9 +14,10 @@ Check out our community newsletter for the latest community news!
 | March, Issue 2        | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-march-a85)   |
 | April, Issue 1        | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-april)   |
 | April, Issue 2        | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-april-90e) |
-| May, Issue 1        | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-may1) |
-| May, Issue 2        | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-may2) |
-| June, Issue 1       | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-june1) |
-| June, Issue 2       | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-june2) |
-| July, Issue 1       | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-july1) |
-| July, Issue 2       | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-july2) |
+| May, Issue 1        | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-may1)    |
+| May, Issue 2        | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-may2)    |
+| June, Issue 1       | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-june1)   |
+| June, Issue 2       | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-june2)   |
+| July, Issue 1       | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-july1)   |
+| July, Issue 2       | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-july2)   |
+| August, Issue 1     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-august1) |
