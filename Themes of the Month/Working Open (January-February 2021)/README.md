@@ -1,4 +1,4 @@
-## January/February 2021
+## January-February 2021
 
 #### Working Open Community Resources
 
