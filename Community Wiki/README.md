@@ -47,6 +47,8 @@ As of May 2021
 [Safer Badgers](https://github.com/rokwire/rokwire-community/blob/master/Community%20Wiki/Wiki%20Stub%20archive/Safer-Badgers.md)  
 [Safer Community](https://github.com/rokwire/rokwire-community/wiki/Safer-Community)  
 [Safer Illinois](https://github.com/rokwire/rokwire-community/wiki/Safer-Illinois)  
+[Smart, Healthy Communities Initiative](https://github.com/rokwire/rokwire-community/wiki/Smart,-Healthy-Communities-Initiative)     
+[STRAT Lab](https://github.com/rokwire/rokwire-community/wiki/STRAT-Lab)       
 [Sustainable Contributions](https://github.com/rokwire/rokwire-community/wiki/Sustainable-Contributions)  
 [Terms of Service (ToS)](https://github.com/rokwire/rokwire-community/wiki/Terms-of-Service-(ToS))   
 [Version Control and Working Open Tutorial](https://github.com/rokwire/rokwire-community/wiki/Version-Control-and-Working-Open-Tutorial)  
