@@ -21,3 +21,5 @@ Check out our community newsletter for the latest community news!
 | July, Issue 1       | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-july1)   |
 | July, Issue 2       | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-july2)   |
 | August, Issue 1     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-august1) |
+| August, Issue 2     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-august2)  |
+| September, Issue 1  | [link](https://publish.illinois.edu/bradly-alicea/2021/09/10/september-newsletter-issue-1/) |
