@@ -6,7 +6,7 @@ This is the backend for the [Rokwire Community Wiki](https://github.com/rokwire/
 Rokwire Community Onboarding Guide  [link](https://rokwirecommunity.substack.com/p/onboarding-guide-to-rokwire-community)
 
 ### Catalogue of Pages
-As of May 2021
+As of September 2021
 
 [Home](https://github.com/rokwire/rokwire-community/wiki)       
 [Apache license](https://github.com/rokwire/rokwire-community/wiki/Apache-license)   
@@ -17,6 +17,7 @@ As of May 2021
 [Contributions Packager](https://github.com/rokwire/rokwire-community/wiki/Contributions-Packager)   
 [Contributor License Agreement (CLA)](https://github.com/rokwire/rokwire-community/wiki/Contributor-License-Agreement-(CLA))   
 [Contributor Master Plan, version 1](https://github.com/rokwire/rokwire-community/wiki/Contributor-Master-Plan,-version-1)  
+[CrowdIn](https://github.com/rokwire/rokwire-community/wiki/CrowdIn)    
 [Docathon](https://github.com/rokwire/rokwire-community/wiki/Docathon)     
 [Event Categories](https://github.com/rokwire/rokwire-community/wiki/Event-Categories)   
 [Existing and Proposed Building Blocks](https://github.com/rokwire/rokwire-community/wiki/Existing-and-Proposed-Building-Blocks)    
