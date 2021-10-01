@@ -1,7 +1,7 @@
 ## Welcome to the Rokwire Community!
 
 <P "align=center">
-<IMG SRC = "https://github.com/rokwire/rokwire-community/blob/master/Media%20Assets/Rokwire-comm-graphic.jpg">
+<IMG height = "50%" width = "50%" SRC = "https://github.com/rokwire/rokwire-community/blob/master/Media%20Assets/Rokwire-comm-graphic.jpg">
 </P>
 
 [Website](https://rokwirecommunity.web.illinois.edu/), [Blog](https://publish.illinois.edu/bradly-alicea/), [Wiki](https://github.com/rokwire/rokwire-community/wiki), [Onboarding Guide](https://rokwirecommunity.substack.com/p/onboarding-guide-to-rokwire-community), [Code of Conduct](https://github.com/rokwire/rokwire-community/wiki/Rokwire-Community-Code-of-Conduct), [Twitter](http://www.twitter.com/RokwireC/), [Contact](mailto:balicea@illinois.edu)
