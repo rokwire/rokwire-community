@@ -38,7 +38,7 @@ As of September 2021
 [Newsletter](https://github.com/rokwire/rokwire-community/wiki/Newsletter)
 [Onboarding Guide](https://github.com/rokwire/rokwire-community/wiki/Onboarding-Guide)  
 [Open Source Community Guiding Principles](https://github.com/rokwire/rokwire-community/wiki/Open-Source-Community-Guiding-Principles)   
-[Open-source Software Development Workflow](https://github.com/rokwire/rokwire-community/wiki/Open-source-Software-Development-Workflow)
+[Open-source Software Development Workflow](https://github.com/rokwire/rokwire-community/wiki/Open-source-Software-Development-Workflow)  
 [Personal Identifiable Information](https://github.com/rokwire/rokwire-community/wiki/Personal-Identifiable-Information-(PII))   
 [Programming Tutorials](https://github.com/rokwire/rokwire-community/wiki/Programming-Tutorials)   
 [Project Catalogue for Student Contributors](https://github.com/rokwire/rokwire-community/wiki/Project-Catalogue-for-Student-Contributors)  
