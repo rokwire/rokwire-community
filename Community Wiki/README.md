@@ -23,6 +23,7 @@ As of September 2021
 [Existing and Proposed Building Blocks](https://github.com/rokwire/rokwire-community/wiki/Existing-and-Proposed-Building-Blocks)    
 [External Contributor Guidelines](https://github.com/rokwire/rokwire-community/wiki/External-Contributor-Guidelines)  
 [Full stack Community](https://github.com/rokwire/rokwire-community/wiki/Full-stack-Community)  
+[Github and Version-control Terminology](https://github.com/rokwire/rokwire-community/wiki/Github-and-Version-control-Terminology)   
 [Governance](https://github.com/rokwire/rokwire-community/wiki/Governance)    
 [Guidance Tree](https://github.com/rokwire/rokwire-community/wiki/Guidance-Tree)     
 [How do I Get On Board?](https://github.com/rokwire/rokwire-community/wiki/How-do-I-Get-On-Board%3F)  
