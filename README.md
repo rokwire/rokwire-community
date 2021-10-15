@@ -23,7 +23,8 @@ How to create an account on Github [link](https://www.wikihow.com/Create-an-Acco
 | Open Source Orientation (Mozilla Science)        | [link](https://mozillascience.github.io/study-group-orientation/index.html)           |
 | Beginner's Guide for Documentation (ReadTheDocs) | [link](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)           |
 | Git/Github Introduction (Voytek Lab)             | [link](https://voyteklab.com/git/git-primer/)                                         |
-| Git tutorials and training (Atlassian)           | [link](https://www.atlassian.com/git/tutorials)                                       | 
+| Git tutorials and training (Atlassian)           | [link](https://www.atlassian.com/git/tutorials)                                       |
+| What is Version Control (Atlassian)              | [link](https://www.atlassian.com/git/tutorials/what-is-version-control)               |
 | Four-part Git tutorial (Microsoft)               | [link](https://channel9.msdn.com/Shows/Learn-Live/Learn-Git?WT.mc_id=learnlive-web-learn)                                       | 
 
 #### Programming and procedural tutorials
