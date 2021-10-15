@@ -6,7 +6,12 @@
 
 [Website](https://rokwirecommunity.web.illinois.edu/), [Blog](https://publish.illinois.edu/bradly-alicea/), [Wiki](https://github.com/rokwire/rokwire-community/wiki), [Onboarding Guide](https://rokwirecommunity.substack.com/p/onboarding-guide-to-rokwire-community), [Code of Conduct](https://github.com/rokwire/rokwire-community/wiki/Rokwire-Community-Code-of-Conduct), [Twitter](http://www.twitter.com/RokwireC/), [Contact](mailto:balicea@illinois.edu)
 
-Tutorials for the open-source environment
+### Tutorials for the open-source environment
+
+#### Getting Started  
+How to create an account on Github [link](https://www.wikihow.com/Create-an-Account-on-GitHub)
+
+#### General Resources for Working Open  
 | Resource                                         | Location                                                                              |
 |--------------------------------------------------|---------------------------------------------------------------------------------------|
 | Software Carpentries Github                      | [link](http://www.github.com/swcarpentry/swcarpentry)                                 |
@@ -21,7 +26,7 @@ Tutorials for the open-source environment
 | Git tutorials and training (Atlassian)           | [link](https://www.atlassian.com/git/tutorials)                                       | 
 | Four-part Git tutorial (Microsoft)               | [link](https://channel9.msdn.com/Shows/Learn-Live/Learn-Git?WT.mc_id=learnlive-web-learn)                                       | 
 
-Programming and procedural tutorials
+#### Programming and procedural tutorials
 | Tutorial Resource                                | Location                                                                              |
 |--------------------------------------------------|---------------------------------------------------------------------------------------|
 | Programming Tutorials (Rokwire)                  | [link](https://github.com/rokwire/rokwire-community/wiki/Programming-Tutorials)       |
