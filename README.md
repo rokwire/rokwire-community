@@ -34,8 +34,8 @@ How to create an account on Github [link](https://www.wikihow.com/Create-an-Acco
 | Video Tutorials  (Rokwire)                       | [link](https://github.com/rokwire/rokwire-community/wiki/Video-Tutorials)             |
 
 #### Topical Lectures
-|                                  |                            |
-|----------------------------------|----------------------------|
-| Rokwire Community Lecture Series |   [YouTube playlist]       |
+|  Resource                        |   Location                                                                                           |
+|----------------------------------|------------------------------------------------------------------------------------------------------|
+| Rokwire Community Lecture Series |   [YouTube playlist](https://www.youtube.com/playlist?list=PLfOmoVklxmn3iB0PXqbP_Rnb4hmJ9SbFx)       |
 
 Want to take the pulse of our community? Visit our [Community Navigator](https://rokwire.org/community-navigator). Want to start making contributions? Visit our [Onboarding Guide](https://rokwirecommunity.substack.com/p/onboarding-guide-to-rokwire-community) and [Wiki](https://github.com/rokwire/rokwire-community/wiki) for more information.
