@@ -1,5 +1,5 @@
 ## Overview 
-Work with Rokwire Community (part of the Rokwire Initiative) during Spring 2021! Be part of an open-source community that enables privacy-aware mobile applications and smart, healthy communities. Learn more about us at the links below.
+Work with Rokwire Community (part of the Rokwire Initiative) during Spring 2022! Be part of an open-source community that enables privacy-aware mobile applications and smart, healthy communities. Learn more about us at the links below.
 
 While this is not a paid position, course credit is available through the iSchool practicum program. [Contact us](mailto:rokwire-open-source@mx.illinois.edu) for more information. In the future, there may also be opportunities to become a paid contributor.
  
