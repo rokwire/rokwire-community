@@ -16,4 +16,4 @@ __Project Description:__ We are seeking an intern to support the establishment o
  
 __Qualifications:__ Ideally, the applicant should be comfortable working with 3-D modeling software (Blender) in addition to working on associated programming tasks. Experience with perspective drawing may also be helpful. We will use version-control and project management tools quite extensively, so having a working familiarity with such platforms is expected. While it is not required that you have previous experience working with an open-source organization, applicants must be willing to adopt an “open” ethos.
  
-__Contact:__ Bradly Alicea, Open-source Community Manager (balicea@illinois.edu). This internship will be fully virtual.
+__Contact:__ Bradly Alicea, Open-source Community Manager (balicea@illinois.edu). This internship will be fully virtual (of course!).
