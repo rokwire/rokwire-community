@@ -7,7 +7,7 @@ While this is not a paid position, course credit is available through the iSchoo
 https://rokwire.org/
  
 #### Rokwire Community on the Web
-https://rokwire.org/community-navigator
+https://rokwirecommunity.web.illinois.edu/
  
 #### Rokwire Community blog
 https://publish.illinois.edu/bradly-alicea
