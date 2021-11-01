@@ -14,6 +14,7 @@ As of September 2021
 [Attribution Standard](---)   
 [Bug Reports, Accessibility Reports, and New Feature Requests](https://github.com/rokwire/rokwire-community/wiki/Bug-Reports,-Accessibility-Reports,-and-New-Feature-Requests)   
 [Community Events](https://github.com/rokwire/rokwire-community/wiki/Community-Events)   
+[Community Navigator](https://github.com/rokwire/rokwire-community/wiki/Community-Navigator)     
 [Contributions Packager](https://github.com/rokwire/rokwire-community/wiki/Contributions-Packager)   
 [Contributor License Agreement (CLA)](https://github.com/rokwire/rokwire-community/wiki/Contributor-License-Agreement-(CLA))   
 [Contributor Master Plan, version 1](https://github.com/rokwire/rokwire-community/wiki/Contributor-Master-Plan,-version-1)  
