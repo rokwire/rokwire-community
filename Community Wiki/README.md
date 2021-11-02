@@ -60,5 +60,6 @@ As of September 2021
 [What is an Application Talent?](https://github.com/rokwire/rokwire-community/wiki/What-is-an-Application-Talent%3F)   
 [What is a Building Block?](https://github.com/rokwire/rokwire-community/wiki/What-is-a-Building-Block%3F)  
 [What is Rokwire and What Can it Do?](https://github.com/rokwire/rokwire-community/wiki/What-is-Rokwire-and-What-Can-it-Do%3F)  
-[Workflow, Code Reviews, and Documentation](https://github.com/rokwire/rokwire-community/wiki/Workflow,-Code-Reviews,-and-Documentation)  
+[Workflow, Code Reviews, and Documentation](https://github.com/rokwire/rokwire-community/wiki/Workflow,-Code-Reviews,-and-Documentation) 
+[Working with Building Blocks](https://github.com/rokwire/rokwire-community/wiki/Working-with-Building-Blocks)    
 [Working Open](https://github.com/rokwire/rokwire-community/wiki/Working-Open)  
