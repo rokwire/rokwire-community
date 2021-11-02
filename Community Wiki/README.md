@@ -20,8 +20,7 @@ As of September 2021
 [Contributor Master Plan, version 1](https://github.com/rokwire/rokwire-community/wiki/Contributor-Master-Plan,-version-1)  
 [CrowdIn](https://github.com/rokwire/rokwire-community/wiki/CrowdIn)    
 [Docathon](https://github.com/rokwire/rokwire-community/wiki/Docathon)     
-[Event Categories](https://github.com/rokwire/rokwire-community/wiki/Event-Categories)   
-[Existing and Proposed Building Blocks](https://github.com/rokwire/rokwire-community/wiki/Existing-and-Proposed-Building-Blocks)    
+[Event Categories](https://github.com/rokwire/rokwire-community/wiki/Event-Categories)      
 [External Contributor Guidelines](https://github.com/rokwire/rokwire-community/wiki/External-Contributor-Guidelines)  
 [Full stack Community](https://github.com/rokwire/rokwire-community/wiki/Full-stack-Community)  
 [Github and Version-control Terminology](https://github.com/rokwire/rokwire-community/wiki/Github-and-Version-control-Terminology)   
@@ -42,7 +41,7 @@ As of September 2021
 [Open-source Software Development Workflow](https://github.com/rokwire/rokwire-community/wiki/Open-source-Software-Development-Workflow)  
 [Personal Identifiable Information](https://github.com/rokwire/rokwire-community/wiki/Personal-Identifiable-Information-(PII))   
 [Programming Tutorials](https://github.com/rokwire/rokwire-community/wiki/Programming-Tutorials)   
-[Project Catalogue for Student Contributors](https://github.com/rokwire/rokwire-community/wiki/Project-Catalogue-for-Student-Contributors)  
+[Project Catalogue for Student Contributors](https://github.com/rokwire/rokwire-community/wiki/Project-Catalogue-for-Student-Contributors).  
 [Pull Request Tutorial](https://github.com/rokwire/rokwire-community/wiki/Pull-Request-Tutorial)  
 [Rokwall](https://github.com/rokwire/rokwire-community/wiki/Rokwall)    
 [Rokwire Community Code of Conduct](https://github.com/rokwire/rokwire-community/wiki/Rokwire-Community-Code-of-Conduct)     
