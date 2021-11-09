@@ -29,6 +29,7 @@ As of September 2021
 [How do I Get On Board?](https://github.com/rokwire/rokwire-community/wiki/How-do-I-Get-On-Board%3F)  
 [How do I Get Started?](https://github.com/rokwire/rokwire-community/wiki/How-do-I-Get-Started%3F)  
 [How does Rokwire work?](https://github.com/rokwire/rokwire-community/wiki/How-does-Rokwire-work%3F)  
+[How to Align Files and Conduct a Code Review](https://github.com/rokwire/rokwire-community/wiki/How-to-Align-Files-and-Conduct-a-Code-Review)    
 [How to Develop Capabilities](https://github.com/rokwire/rokwire-community/wiki/How-to-Develop-Capabilities)  
 [Illinois App](https://github.com/rokwire/rokwire-community/wiki/Illinois-App)     
 [Illinois App Groups](https://github.com/rokwire/rokwire-community/wiki/Illinois-App-Groups)     
