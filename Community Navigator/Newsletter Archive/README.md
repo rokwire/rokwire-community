@@ -26,3 +26,5 @@ Check out our community newsletter for the latest community news!
 | September, Issue 2  | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-september2) |   
 | October, Issue 1  | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-october1) |  
 | October, Issue 2  | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-october2) |
+| November, Issue 1 | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-november1) |
+| November, Issue 2 | [link](https://rokwirecommunity.substack.com/p/rokwire-community-newsletter-november) |
