@@ -33,6 +33,12 @@ How to create an account on Github [link](https://www.wikihow.com/Create-an-Acco
 | Programming Tutorials (Rokwire)                  | [link](https://github.com/rokwire/rokwire-community/wiki/Programming-Tutorials)       |
 | Video Tutorials  (Rokwire)                       | [link](https://github.com/rokwire/rokwire-community/wiki/Video-Tutorials)             |
 
+#### Discussion threads on the state of Illinois App features and Documentation
+| Discussion Board                                 | Location                                                                              |
+| -------------------------------------------------|---------------------------------------------------------------------------------------|
+| Illinois App                                     | [link](https://github.com/rokwire/rokwire-community/discussions)                      |
+| Documentation                                    | [link](https://github.com/rokwire/rokwire-docs/discussions)                           |
+
 #### Topical Lectures
 |  Resource                        |   Location                                                                                           |
 |----------------------------------|------------------------------------------------------------------------------------------------------|
