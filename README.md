@@ -36,7 +36,7 @@ How to create an account on Github [link](https://www.wikihow.com/Create-an-Acco
 #### Discussion threads on the state of Illinois App features and Documentation
 | Discussion Board                                 | Location                                                                              |
 | -------------------------------------------------|---------------------------------------------------------------------------------------|
-| Illinois App                                     | [link](https://github.com/rokwire/rokwire-community/discussions)                      |
+| Rokwire App Development                          | [link](https://github.com/rokwire/rokwire-community/discussions)                      |
 | Documentation                                    | [link](https://github.com/rokwire/rokwire-docs/discussions)                           |
 
 #### Topical Lectures
