@@ -12,7 +12,7 @@ As of December 2021
 [Apache license](https://github.com/rokwire/rokwire-community/wiki/Apache-license)   
 [API Ecosystem Diagram](https://github.com/rokwire/rokwire-community/wiki/API-Ecosystem-Diagram)      
 [Attribution Standard](---)   
-[Open source Contribution proposals, Bug Reports, and New Feature Requests](https://github.com/rokwire/rokwire-community/wiki/Open-source-Contribution-proposals,-Bug-Reports,-and-New-Feature-Requests)   
+[Open source Contribution, Bug Reports, and New Feature Requests](https://github.com/rokwire/rokwire-community/wiki/Open-source-Contribution,-Bug-Reports,-and-New-Feature-Requests)   
 [Community Events](https://github.com/rokwire/rokwire-community/wiki/Community-Events)   
 [Community Navigator](https://github.com/rokwire/rokwire-community/wiki/Community-Navigator)     
 [Contributions Packager](https://github.com/rokwire/rokwire-community/wiki/Contributions-Packager)   
