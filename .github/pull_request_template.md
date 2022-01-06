@@ -1,3 +1,11 @@
+---
+name: New Wiki content
+about: This form is for submitting new stubs and corrections to existing stubs on the Community Wiki.
+title: "[DATE]: [FEATURE NAME]"
+labels: wiki content
+assignees: 
+---
+
 ## New Pages and Unmoderated Content
 #### Template for Community Wiki Contributions Only  
 
