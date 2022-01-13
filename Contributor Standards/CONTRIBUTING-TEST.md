@@ -42,7 +42,7 @@ We are excited that you may be interested in contributing code to the Rokwire Pl
 
 ### Code Reviews
 
-For all issues and pull requests, please tag Mark Hennessey (@pmarkhennessy) and Stephen Hurwit (@shurwit) Each repository will have at least one maintainer (CODEOWNER) who will be responsible for reviewing the incoming pull request. In certain situations, other contributors may also be brought in as reviewers by the maintainer. After a pull request gets successfully reviewed, the incoming branch is merged to the develop branch. To keep the commit history clean, we will try to squash the commits into a single commit for each merge onto the develop branch.
+For all open source issues and pull requests, please tag Mark Hennessey (@pmarkhennessy) and Stephen Hurwit (@shurwit). In addition, each repository will have at least one maintainer (CODEOWNER) who should be tagged as appropriate. Please see the [Interacting with our Repositories Wiki stub](https://github.com/rokwire/rokwire-community/wiki/Interacting-with-our-Repositories) for more information. In certain situations, other contributors may also be brought in as reviewers by the maintainer; this should only be done in consultation with the internal development team. After a pull request gets successfully reviewed, the incoming branch and/or fork is merged to the develop branch. To keep the commit history clean, we will try to squash the commits into a single commit for each merge onto the Rokwire /develop branch.
 
 ### Documentation
 
