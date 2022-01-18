@@ -1,5 +1,5 @@
 ---
-name: New Wiki content
+name: Demos and Tutorials
 about: This form is for proposing new demos and tutorials for the Rokwire Community.
 title: "[DATE]: [DEMOS/TUTORIALS]"
 labels: Demos and Tutorials
