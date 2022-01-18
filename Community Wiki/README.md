@@ -1,9 +1,9 @@
 ## Welcome to the Rokwire Community Wiki! 
 
-This is the backend for the [Rokwire Community Wiki](https://github.com/rokwire/rokwire-community/wiki). Interested in contributing new pages and other unmoderated content? Then issue a Pull Request to this repository with your contributions. Or [earn write access](mailto:balicea@illinois.edu) to this repo. Look forward to seeing your contributions!   
+This is the backend for the [Rokwire Community Wiki](https://github.com/rokwire/rokwire-community/wiki). Interested in contributing new pages and other unmoderated content? [Create an issue](https://github.com/rokwire/rokwire-community/issues/new/choose), then issue a Pull Request to this repository with your contributions. Or [earn write access](mailto:balicea@illinois.edu) to this repo. Look forward to seeing your contributions!   
 
 [Documentation](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) for Github wikis  
-Rokwire Community Onboarding Guide  [link](https://rokwirecommunity.substack.com/p/onboarding-guide-to-rokwire-community)
+Rokwire Community Onboarding Guide [link](https://rokwirecommunity.substack.com/p/onboarding-guide-to-rokwire-community)
 
 ### Catalogue of Pages
 As of December 2021
