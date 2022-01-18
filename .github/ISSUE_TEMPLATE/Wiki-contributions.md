@@ -1,5 +1,5 @@
 ---
-name: New Wiki content and Modify existing content
+name: New Wiki content and Modified existing content
 about: This form is for submitting new stubs and corrections to existing stubs on the Community Wiki.
 title: "[DATE]: [WIKI CONTRIBUTION]"
 labels: wiki contribution
