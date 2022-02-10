@@ -11,6 +11,6 @@ Contribution Type #6: Working with the API to Modify Building Blocks
 
 Contribution Type #7: Contributions to README Documentation and Wiki Stubs
 
-&nbsp  
+  <br />
 
 Participation Type #1: Becoming a Discussion Leader
