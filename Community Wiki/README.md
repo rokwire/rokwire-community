@@ -22,6 +22,7 @@ As of December 2021
 [Docathon](https://github.com/rokwire/rokwire-community/wiki/Docathon)     
 [Event Categories](https://github.com/rokwire/rokwire-community/wiki/Event-Categories)      
 [External Contributor Guidelines](https://github.com/rokwire/rokwire-community/wiki/External-Contributor-Guidelines)  
+[FOSDEM Conference](https://github.com/rokwire/rokwire-community/wiki/FOSDEM-Conference)
 [Full stack Community](https://github.com/rokwire/rokwire-community/wiki/Full-stack-Community)  
 [Github and Version-control Terminology](https://github.com/rokwire/rokwire-community/wiki/Github-and-Version-control-Terminology)   
 [Governance](https://github.com/rokwire/rokwire-community/wiki/Governance)    
