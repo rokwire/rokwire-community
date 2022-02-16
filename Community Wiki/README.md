@@ -35,7 +35,7 @@ As of December 2021
 [Illinois App](https://github.com/rokwire/rokwire-community/wiki/Illinois-App)     
 [Illinois App Groups](https://github.com/rokwire/rokwire-community/wiki/Illinois-App-Groups)    
 [Interacting with our Repositories](https://github.com/rokwire/rokwire-community/wiki/Interacting-with-our-Repositories)
-[Internal Contributor Guidelines](https://github.com/rokwire/rokwire-community/wiki/Internal-Contributor-Guidelines)  
+[Internal Contributor Guidelines for Open Source Interaction](https://github.com/rokwire/rokwire-community/wiki/Internal-Contributor-Guidelines-for-Open-Source-Interaction)     
 [Licensing](https://github.com/rokwire/rokwire-community/wiki/Licensing)  
 [Markdown tutorial](https://github.com/rokwire/rokwire-community/wiki/Markdown-tutorial)  
 [Newsletter](https://github.com/rokwire/rokwire-community/wiki/Newsletter)
