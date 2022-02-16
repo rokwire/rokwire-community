@@ -1,6 +1,6 @@
 ## Setting up a code review system
 
-Code reviews can be done using several methods:
+Code reviews are useful for a number of reasons. These include: improving readability, eliminating runtime errors, and complicance with organizational standards. can be done using several methods:
 
 1) asynchronous (work checked using an automated program).
 
@@ -14,6 +14,8 @@ External contributors to the Rokwire Community should use a [git-forking model](
 
 ### More Information
 Submit your ideas for contributions via our [Discussion Feedback Board](https://github.com/rokwire/rokwire-community/discussions) (app specific) or create a ["Propose an Open Source Contribution"](https://github.com/rokwire/test-permissions-repo/issues/new/choose) issue.  
+
+Relevant Wiki stubs: [How to Align Files and Conduct a Code Review](https://github.com/rokwire/rokwire-community/wiki/How-to-Align-Files-and-Conduct-a-Code-Review), [Version Control and Working Open Tutorial](https://github.com/rokwire/rokwire-community/wiki/Version-Control-and-Working-Open-Tutorial), [Sustainable Contributions](https://github.com/rokwire/rokwire-community/wiki/Sustainable-Contributions), [Interacting with our Repositories](https://github.com/rokwire/rokwire-community/wiki/Interacting-with-our-Repositories). 
 
 See Issues [#80](https://github.com/rokwire/rokwire-community/issues/80) and [#83](https://github.com/rokwire/rokwire-community/issues/83) on task board.   
 
