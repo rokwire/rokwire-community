@@ -1,4 +1,5 @@
-## Guide to Public Work Events. 
+## Guide to Public Work Events
+Rokwire Community, as of February 2022
 
 Rokwire Community hosts four types of public event: Hackathon, Ideathons, Docathons, and Sprints
 
