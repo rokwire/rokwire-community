@@ -12,9 +12,9 @@ __Ideathons__ provide a means to brainstorm and flesh out ideas using the genera
 
 __Sprints__ are focused work sessions where time is devoted to a tightly-defined set of tasks. Sprints usually follow-up on a Hackthon in that issues created during a Hackathon are addressed during the Sprint. Sprints can also be used to resolve a set of outstanding issues in a short, focused burst of attention.
 
-__Issue Creation__ Issues can be pre-defined, or prepared as an initial step during the event. Issue tracking can either be done in Github (recommended for Hackathons and Docathons) or another platform such as Trello.   
+&nbsp;  
+&nbsp;  
 
-&nbsp;  
-&nbsp;  
+__Issue Creation__ Issues can be pre-defined, or prepared as an initial step during the event. Issue tracking can either be done in Github (recommended for Hackathons and Docathons) or another platform such as Trello.   
 
 __Working Open__ Check out this short guide from Mozilla, which provides information about [Working Open](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/introduction-to-working-open/). Github also offers a guide to [Hackathons](https://github.com/github/hackathons).
