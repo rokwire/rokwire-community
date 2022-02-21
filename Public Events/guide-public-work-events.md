@@ -13,6 +13,10 @@ __Ideathons__ provide a means to brainstorm and flesh out ideas using the genera
 
 __Sprints__ are focused work sessions where time is devoted to a tightly-defined set of tasks. Sprints usually follow-up on a Hackthon in that issues created during a Hackathon are addressed during the Sprint. Sprints can also be used to resolve a set of outstanding issues in a short, focused burst of attention.
 
+__Lecture Series__ are invited speakers from a variety of backgrounds who provide an hour's worth of topical presentation and discussion to the broader community.
+
+__Forum Series__ are invited speakers on a focused topic who provide an hour's worth of topical presentation and discussion to the broader community.
+
 &nbsp;  
 &nbsp;  
 
