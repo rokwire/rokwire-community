@@ -20,6 +20,6 @@ __Forum Series__ are invited speakers on a focused topic who provide an hour's w
 &nbsp;  
 &nbsp;  
 
-__Issue Creation__ Issues can be pre-defined, or prepared as an initial step during the event. Issue tracking can either be done in Github (recommended for Hackathons and Docathons) or another platform such as [Trello](https://trello.com/en-US).   
+__Issue Creation__ Issues can be pre-defined, or prepared as an initial step during the event. Issue tracking can either be done in [Github](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/tracking-work-with-project-boards) (recommended for Hackathons and Docathons) or another platform such as [Trello](https://trello.com/en-US).   
 
 __Working Open__ Check out this short guide from Mozilla, which provides information about [Working Open](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/introduction-to-working-open/). Github also offers a guide to [Hackathons](https://github.com/github/hackathons).
