@@ -6,7 +6,7 @@ Hackathons, Docathons, Ideathons, and Sprints are coordinated work sessions that
 
 __Hackathons__ typically involve experimenting with and exploring code, and creating follow-upissues from the results. The term "hackathon" means "clever marathon", and the idea of this type of session is to find new solutions to persistent problems.
 
-__Docathons__ involve developing documentation. We will work on the various community docs, ranging from contributing to the Community Wiki to interacting with our API Docs in Swagger. 
+__Docathons__ involve developing documentation. We will work on the various community docs, ranging from contributing to the Community Wiki to interacting with our [API Docs in Swagger](https://api.rokwire.illinois.edu/docs/). 
 
 __Ideathons__ provide a means to brainstorm and flesh out ideas using the general structure of a Hackathon. Ideathons are explicitly not code-related, and involve coming up with new processes and action items. 
 
@@ -15,6 +15,6 @@ __Sprints__ are focused work sessions where time is devoted to a tightly-defined
 &nbsp;  
 &nbsp;  
 
-__Issue Creation__ Issues can be pre-defined, or prepared as an initial step during the event. Issue tracking can either be done in Github (recommended for Hackathons and Docathons) or another platform such as Trello.   
+__Issue Creation__ Issues can be pre-defined, or prepared as an initial step during the event. Issue tracking can either be done in Github (recommended for Hackathons and Docathons) or another platform such as [Trello](https://trello.com/en-US).   
 
 __Working Open__ Check out this short guide from Mozilla, which provides information about [Working Open](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/introduction-to-working-open/). Github also offers a guide to [Hackathons](https://github.com/github/hackathons).
