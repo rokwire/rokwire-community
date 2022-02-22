@@ -5,7 +5,7 @@ Rokwire Community hosts four types of public event: Hackathon, Ideathons, Docath
 
 Hackathons, Docathons, Ideathons, and Sprints are coordinated work sessions that allow collaborators to get together at a defined time and make progress on a set of issues. 
 
-__Hackathons__ typically involve experimenting with and exploring code, and creating follow-upissues from the results. The term "hackathon" means "clever marathon", and the idea of this type of session is to find new solutions to persistent problems.
+__Hackathons__ typically involve experimenting with and exploring code, and creating follow-up issues from the results. The term "hackathon" means "clever marathon", and the idea of this type of session is to find new solutions to persistent problems.
 
 __Docathons__ involve developing documentation. We will work on the various community docs, ranging from contributing to the Community Wiki to interacting with our [API Docs in Swagger](https://api.rokwire.illinois.edu/docs/). 
 
