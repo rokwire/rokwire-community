@@ -1,9 +1,9 @@
 ## Community Newsletter Archive
 Check out our community newsletter for the latest community news!   
 
-| Issue                 | Newsletter                                                                         |    |
+| Issue                 | Newsletter                                                                         | Monthly Themes   |
 |-----------------------|------------------------------------------------------------------------------------|----|
-| 2020                  |                                                                                    |    |
+| 2020                  |                                                                                    |  [AMA Rokwire!](https://publish.illinois.edu/bradly-alicea/2020/09/01/about-me/)  |
 | November, Issue 1     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-news)             |    |
 | December, Issue 1     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-news-november1)   |    |
 | December, Issue 2     | [link](https://rokwirecommunity.substack.com/p/rokwire-community-news-december-2)       |    |
