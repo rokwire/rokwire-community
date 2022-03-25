@@ -49,6 +49,7 @@ How to create an account on Github [link](https://www.wikihow.com/Create-an-Acco
 
 Want to take the pulse of our community? Visit our [Community Navigator](https://rokwirecommunity.web.illinois.edu/). Want to start making contributions? Visit our [Onboarding Guide](https://rokwirecommunity.substack.com/p/onboarding-guide-to-rokwire-community) and [Wiki](https://github.com/rokwire/rokwire-community/wiki) for more information.
 
-
-![](https://github.com/rokwire/rokwire-community/blob/master/Media%20Assets/cc-by.png =159x79)
-All content licensed under Creative Commons license [CC-BY 4.0](<A HREF="https://creativecommons.org/licenses/by/4.0/legalcode">).
+<P>
+  <img src="https://github.com/rokwire/rokwire-community/blob/master/Media%20Assets/cc-by.png" width="318"><BR>
+  All content licensed under Creative Commons license <A HREF="https://creativecommons.org/licenses/by/4.0/legalcode">CC-BY 4.0</A>.
+</P>
