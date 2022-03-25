@@ -11,6 +11,8 @@
 #### Getting Started  
 How to create an account on Github [link](https://www.wikihow.com/Create-an-Account-on-GitHub)
 
+Need to know where you might fit in? Please visit our [guidance tree](https://rokwirecommunity.web.illinois.edu/guidance-tree.htm) to get connected to resources, community roles, and prerequisites!
+
 #### General Resources for Working Open  
 | Resource                                         | Location                                                                              |
 |--------------------------------------------------|---------------------------------------------------------------------------------------|
