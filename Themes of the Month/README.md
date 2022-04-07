@@ -12,7 +12,6 @@
 |   Open Data Science          |  September 2021            |  [link](https://github.com/rokwire/rokwire-community/tree/master/Themes%20of%20the%20Month/Open%20Data%20Science%20(September%202021))                  |
 |   Hacktoberfest(meta)        |  October 2021               |  [link](https://github.com/rokwire/rokwire-community/tree/master/Themes%20of%20the%20Month/Hacktoberfest(meta))                  |
 |   Campus Futures             |  November 2021               |  [link](https://github.com/rokwire/rokwire-community/tree/master/Themes%20of%20the%20Month/Campus%20Futures%20(November%202021))                  |
-|   Mobile App Changes         |  December 2021               |  [link](https://github.com/rokwire/rokwire-community/tree/master/Themes%20of%20the%20Month/Mobile%20App%20Changes%20(December%202021))                 |
 |   Mobile App Changes         |  December 2021-January 2022  |  [link](https://github.com/rokwire/rokwire-community/tree/master/Themes%20of%20the%20Month/Mobile%20App%20Changes%20(December%202021))          |
 |   Libraries and Mobile Scholarship   |  February 2022               |  [link](https://github.com/rokwire/rokwire-community/tree/master/Themes%20of%20the%20Month/Libraries%20and%20Mobile%20Scholarship%20(February%202022))                  |
 |   Revisiting Privacy         |  March 2022               |  [link](https://github.com/rokwire/rokwire-community/tree/master/Themes%20of%20the%20Month/Revisiting%20Privacy%20(March%202022))                  |
