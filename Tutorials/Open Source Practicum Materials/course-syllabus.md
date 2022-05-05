@@ -7,23 +7,23 @@ Version Spring.2022, licensed under [CC-BY 4.0]("https://creativecommons.org/lic
 </p>
 
 
-|   Module                      |   Sequence    |   Length (min)  |
-|-------------------------------|---------------|-----------------|    
-| Introduction to Github        |               |     36          |
-|                               |               |                 |
-| Contributions                 |      I        |     25          |
-| Discussions                   |      I        |     52          |
-| Public Events                 |      I        |     40          |
-|                               |               |                 |
-| Guidance Tree                 |               |     19          |
-|                               |               |                 |
-| Community Resource Management |      I        |     41          |
-| Community Resource Management |     II        |     32          |
-|                               |               |                 |
-| Collaboration Tools           |      I        |     43          |
-|                               |               |                 |
-| Community Stats and Models    |      I        |     31          |
-| Community Stats and Models    |     II        |     40          |
+|   Module                      |   Sequence    |   Length (min)  |    Video URL (document in the description)           |
+|-------------------------------|---------------|-----------------|------------------------------------------------------|   
+| Introduction to Github        |               |     36          |  [link](https://www.youtube.com/watch?v=KodO5MN6kE8) |
+|                               |               |                 |                                                      |
+| Contributions                 |      I        |     25          |  [link](https://www.youtube.com/watch?v=_ZwuVi2jTjI) |
+| Discussions                   |      I        |     52          |  [link](https://www.youtube.com/watch?v=6ZCkHfNgp0E) |
+| Public Events                 |      I        |     40          |  [link](https://www.youtube.com/watch?v=qEKI7QrP2Ho) |
+|                               |               |                 |                                                      |
+| Guidance Tree                 |               |     19          |  [link](https://www.youtube.com/watch?v=FGQ8VNcb7Nc) |
+|                               |               |                 |                                                      |
+| Community Resource Management |      I        |     41          |  [link](https://www.youtube.com/watch?v=nK8ZChTQv10) |
+| Community Resource Management |     II        |     32          |  [link](https://www.youtube.com/watch?v=Dkzk7uskscw) |
+|                               |               |                 |                                                      |
+| Collaboration Tools           |      I        |     43          |  [link](https://www.youtube.com/watch?v=aO4IbrR88tg) |
+|                               |               |                 |                                                      |
+| Community Stats and Models    |      I        |     31          |  [link](https://www.youtube.com/watch?v=ANsZ-QlQcTU) |
+| Community Stats and Models    |     II        |     40          |  [link](https://www.youtube.com/watch?v=lk5eOVNZLFs) |
 
 
 __Orientation (60 minutes)__   
