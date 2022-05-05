@@ -1,7 +1,10 @@
 ## Open-source Community Management 
 
-Version Spring.2022, licensed under [CC-BY 4.0]("https://creativecommons.org/licenses/by/4.0/legalcode")
-![](https://rokwirecommunity.web.illinois.edu/cc-by.png)
+Version Spring.2022, licensed under [CC-BY 4.0]("https://creativecommons.org/licenses/by/4.0/legalcode")     
+
+<p align=center>
+  <IMG SRC="https://rokwirecommunity.web.illinois.edu/cc-by.png" width="80"><BR>
+</p>
 
 
 |   Module                      |   Sequence    |   Length (min)  |
